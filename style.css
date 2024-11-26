@@ -1240,7 +1240,7 @@ a:active {
     color: #9a9fa7;
 }
 
-@media only screen and (max-width:767px){
+@media only screen and (max-width:1284px){
     .nav{
         width: 700px;
     }
